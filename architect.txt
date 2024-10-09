@@ -1,6 +1,6 @@
 #Cosi Mechanical System
-[system address] https://github.com/MatthewBeddows/SystemDemo1
-#Cosi Electronics
-[system address] https://github.com/MatthewBeddows/SystemDemo2
-#Cosi Probe
-[system address] https://github.com/MatthewBeddows/SystemDemo3
+[system address] https://github.com/MatthewBeddows/COSI-Mechanical-System
+#COSI Electronics
+[system address] https://github.com/MatthewBeddows/COSI-Electronics
+//#Cosi Probe
+//[system address] https://github.com/MatthewBeddows/SystemDemo3
