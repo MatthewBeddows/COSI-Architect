@@ -1,4 +1,4 @@
-#Cosi Mechanical System
-[module address] https://github.com/MatthewBeddows/COSI-Mechanical-System
+#Cosi Positioning Frame
+[module address] https://github.com/MatthewBeddows/COSI-PositioningFrame
 #COSI Electronics
 [module address] https://github.com/MatthewBeddows/COSI-Electronics
